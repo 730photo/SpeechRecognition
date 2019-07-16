@@ -4,7 +4,7 @@ This was the 20th project from the #JavaScript30 that i've completed. I built a 
 
 Things I learned:
 
--speechRecognition
+-speechRecognition()
 
 Goals:
 
