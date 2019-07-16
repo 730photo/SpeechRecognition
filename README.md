@@ -11,3 +11,5 @@ Goals:
 -Make mobile responsive
 
 Deployed App: https://nervous-jones-5dd90d.netlify.com
+
+<img width="1440" alt="Screen Shot 2019-07-16 at 11 44 07 AM" src="https://user-images.githubusercontent.com/29503790/61310402-3b2fe780-a7c2-11e9-8c09-77ac63d3e685.png">
